@@ -9,4 +9,8 @@
 - QTableWidget 表格的使用demo
 ![image](https://github.com/silent426/QtLearning/assets/55752542/d2a8a683-2e0a-42fa-bf13-028350a9c248)
 
+- 分割窗口的demo
+  ![image](https://github.com/silent426/QtLearning/assets/55752542/14aad511-b73a-4c32-a561-d3609092fc24)
+
+
 
