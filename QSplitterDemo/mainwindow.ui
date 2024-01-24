@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QHBoxLayout" name="horizontalLayout">
+    <item>
+     <widget class="QSplitter" name="splitter_2">
+      <property name="orientation">
+       <enum>Qt::Horizontal</enum>
+      </property>
+      <widget class="QSplitter" name="splitter">
+       <property name="orientation">
+        <enum>Qt::Vertical</enum>
+       </property>
+       <widget class="QWidget" name="widget_3" native="true">
+        <property name="minimumSize">
+         <size>
+          <width>0</width>
+          <height>400</height>
+         </size>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">background-color: rgb(89, 89, 89);</string>
+        </property>
+       </widget>
+       <widget class="QTableWidget" name="tableWidget">
+        <attribute name="horizontalHeaderStretchLastSection">
+         <bool>true</bool>
+        </attribute>
+        <attribute name="verticalHeaderVisible">
+         <bool>false</bool>
+        </attribute>
+        <attribute name="verticalHeaderStretchLastSection">
+         <bool>true</bool>
+        </attribute>
+        <row>
+         <property name="text">
+          <string>新建行</string>
+         </property>
+        </row>
+        <row>
+         <property name="text">
+          <string>新建行</string>
+         </property>
+        </row>
+        <row>
+         <property name="text">
+          <string>新建行</string>
+         </property>
+        </row>
+        <row>
+         <property name="text">
+          <string>新建行</string>
+         </property>
+        </row>
+        <row>
+         <property name="text">
+          <string>新建行</string>
+         </property>
+        </row>
+        <row>
+         <property name="text">
+          <string>新建行</string>
+         </property>
+        </row>
+        <row>
+         <property name="text">
+          <string>新建行</string>
+         </property>
+        </row>
+        <row>
+         <property name="text">
+          <string>新建行</string>
+         </property>
+        </row>
+        <row>
+         <property name="text">
+          <string>新建行</string>
+         </property>
+        </row>
+        <row>
+         <property name="text">
+          <string>新建行</string>
+         </property>
+        </row>
+        <row>
+         <property name="text">
+          <string>新建行</string>
+         </property>
+        </row>
+        <column>
+         <property name="text">
+          <string>序号</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>属性1</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>属性2</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>属性3</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>属性4</string>
+         </property>
+        </column>
+       </widget>
+      </widget>
+      <widget class="QWidget" name="widget" native="true">
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(90, 90, 90);</string>
+       </property>
+       <widget class="QPushButton" name="pushButton_3">
+        <property name="geometry">
+         <rect>
+          <x>100</x>
+          <y>480</y>
+          <width>93</width>
+          <height>28</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>运行</string>
+        </property>
+       </widget>
+       <widget class="QWidget" name="widget_2" native="true">
+        <property name="geometry">
+         <rect>
+          <x>420</x>
+          <y>50</y>
+          <width>385</width>
+          <height>529</height>
+         </rect>
+        </property>
+        <widget class="QWidget" name="horizontalLayoutWidget">
+         <property name="geometry">
+          <rect>
+           <x>50</x>
+           <y>90</y>
+           <width>195</width>
+           <height>80</height>
+          </rect>
+         </property>
+         <layout class="QHBoxLayout" name="horizontalLayout_2">
+          <item>
+           <widget class="QPushButton" name="pushButton_4">
+            <property name="text">
+             <string>PushButton</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QPushButton" name="pushButton_5">
+            <property name="text">
+             <string>PushButton</string>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </widget>
+       </widget>
+      </widget>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>800</width>
+     <height>25</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <tabstops>
+  <tabstop>pushButton_3</tabstop>
+  <tabstop>pushButton_4</tabstop>
+  <tabstop>pushButton_5</tabstop>
+ </tabstops>
+ <resources/>
+ <connections/>
+</ui>
