@@ -12,5 +12,7 @@
 - 分割窗口的demo
   ![image](https://github.com/silent426/QtLearning/assets/55752542/14aad511-b73a-4c32-a561-d3609092fc24)
 
+- QSettings Demo 序列化反序列化配置文件
+  ![image](https://github.com/silent426/QtLearning/assets/55752542/44690053-7944-4576-9f91-f59cc165d3d3)
 
 
