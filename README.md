@@ -1,6 +1,6 @@
 # QtLearning
 
-### 一些小的Qtdemo：
+### 一些小的QtDemo：
 - HelloQxlsx项目 使用Qxlsx 读写excel 
 - HelloXlnt项目 使用Qxlnt库 读写excel
 - QBarwidget 条形图显示demo
