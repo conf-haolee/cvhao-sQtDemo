@@ -7,9 +7,15 @@
   
 ![image](https://github.com/silent426/QtLearning/assets/55752542/412f1ecd-9695-434a-8b14-f6755d70f98c)
 - QTableWidget 表格的使用demo
-![image](https://github.com/silent426/QtLearning/assets/55752542/d2a8a683-2e0a-42fa-bf13-028350a9c248)
+<div align="center">
+<img src=https://raw.githubusercontent.com/conf-haolee/Images/master/PicGoImg/202409032246807.png width=600px />
+</div>
+
 
 - 分割窗口的demo
+<div align="center">
+<img src=https://raw.githubusercontent.com/conf-haolee/Images/master/PicGoImg/202409032251763.png width=600px />
+</div>
   ![image](https://github.com/silent426/QtLearning/assets/55752542/14aad511-b73a-4c32-a561-d3609092fc24)
 
 - QSettings Demo 序列化反序列化配置文件
